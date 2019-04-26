@@ -1758,6 +1758,8 @@ var domains = {
   "epochtimes.fr": 1, 
   "google.com.hk": 1, 
   "google.com.sg": 1, 
+  "googleapis.cn": 1,
+  "services.googleapis.cn": 1,
   "wapedia.mobi": 1, 
   "allaboutalpha.com": 1, 
   "graylog2.org": 1, 
